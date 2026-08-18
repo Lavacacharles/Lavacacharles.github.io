@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lavacacharles.github.io/al-folio/sitemap.xml
+Sitemap: https://Lavacacharles.github.io/sitemap.xml
